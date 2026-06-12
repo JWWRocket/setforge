@@ -21,3 +21,7 @@ Idealne dla sprzedawców na marketplace i social media.
 - HTML / CSS / JavaScript
 - Canvas API
 - JSZip
+
+## 🧪 W trakcie testów
+
+- Nowa funkcja w przygotowaniu
